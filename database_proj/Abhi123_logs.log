@@ -1,0 +1,37 @@
+2025-01-21 14:19:14,775 - INFO - Registartion attempt received
+2025-01-21 14:19:14,788 - INFO - Starting username validation.
+2025-01-21 14:19:14,788 - INFO - Username validated successfully
+2025-01-21 14:19:14,788 - INFO - Starting password validation.
+2025-01-21 14:19:20,823 - INFO - Password validation successfull
+2025-01-21 14:19:20,823 - INFO - Starting name validation.
+2025-01-21 14:19:24,140 - WARNING - Registration failed for user Invalid Name format
+2025-01-21 14:19:28,794 - INFO - Name validation successfull
+2025-01-21 14:19:28,796 - INFO - Starting phoen_no validation.
+2025-01-21 14:19:30,428 - WARNING - Registration failed for user Invalid phone No. format
+2025-01-21 14:19:32,565 - INFO - Phone validation successfull
+2025-01-21 14:19:32,565 - INFO - Starting email validation.
+2025-01-21 14:19:35,798 - WARNING - Registration failed for user Invalid email format
+2025-01-21 14:19:42,555 - INFO - Email validation successfull
+2025-01-21 14:19:42,555 - INFO - Starting License number validation.
+2025-01-21 14:19:46,425 - WARNING - Registration failed for user Invalid Lic_ No format
+2025-01-21 14:19:49,883 - INFO - License number validation successfull
+2025-01-21 14:19:49,883 - INFO - Starting adhar validation.
+2025-01-21 14:19:51,977 - WARNING - Registration failed for user Invalid Adhar_No format
+2025-01-21 14:19:53,551 - INFO - Aadhaar number validation successfull
+2025-01-21 14:19:53,551 - INFO - Starting city name validation.
+2025-01-21 14:19:56,268 - INFO - City name validated successfully
+2025-01-21 14:19:56,268 - INFO - Starting pincode validation.
+2025-01-21 14:19:59,191 - WARNING - Registration failed for user Invalid pincode format
+2025-01-21 14:20:00,237 - INFO - Pin Code validation successfull
+2025-01-21 14:20:00,237 - INFO - Starting state validation.
+2025-01-21 14:20:02,594 - INFO - State name validated successfully
+2025-01-21 14:20:02,596 - INFO - Starting Company validation.
+2025-01-21 14:20:05,227 - INFO - Company name validated successfully
+2025-01-21 14:20:05,227 - INFO - Starting model name validation.
+2025-01-21 14:20:07,847 - INFO - Model name validation successfull
+2025-01-21 14:20:07,847 - INFO - Starting Colour validation.
+2025-01-21 14:20:10,838 - INFO - Color validation successfull
+2025-01-21 14:20:10,838 - INFO - Starting Price validation.
+2025-01-21 14:20:13,202 - INFO - Price validated successfully
+2025-01-21 14:20:13,202 - INFO - Starting fuel type validation.
+2025-01-21 14:20:16,125 - INFO - Registration done Successfully.
