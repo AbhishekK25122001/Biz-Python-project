@@ -1,34 +1,29 @@
-2025-01-21 16:13:50,885 - INFO - Registartion attempt received
-2025-01-21 16:13:50,885 - INFO - Starting username validation.
-2025-01-21 16:13:50,885 - INFO - Username validated successfully
-2025-01-21 16:13:50,885 - INFO - Starting password validation.
-2025-01-21 16:13:55,505 - INFO - Password validation successfull
-2025-01-21 16:13:55,505 - INFO - Starting name validation.
-2025-01-21 16:13:57,756 - INFO - Name validation successfull
-2025-01-21 16:13:57,757 - INFO - Starting phoen_no validation.
-2025-01-21 16:13:59,532 - WARNING - Registration failed for user Invalid phone No. format
-2025-01-21 16:14:01,286 - INFO - Phone validation successfull
-2025-01-21 16:14:01,286 - INFO - Starting email validation.
-2025-01-21 16:14:05,640 - INFO - Email validation successfull
-2025-01-21 16:14:05,640 - INFO - Starting License number validation.
-2025-01-21 16:14:05,933 - WARNING - Registration failed for user Invalid Lic_ No format
-2025-01-21 16:14:12,603 - INFO - License number validation successfull
-2025-01-21 16:14:12,603 - INFO - Starting adhar validation.
-2025-01-21 16:14:14,850 - INFO - Aadhaar number validation successfull
-2025-01-21 16:14:14,850 - INFO - Starting city name validation.
-2025-01-21 16:14:16,552 - INFO - City name validated successfully
-2025-01-21 16:14:16,552 - INFO - Starting pincode validation.
-2025-01-21 16:14:17,600 - WARNING - Registration failed for user Invalid pincode format
-2025-01-21 16:14:19,314 - INFO - Pin Code validation successfull
-2025-01-21 16:14:19,314 - INFO - Starting state validation.
-2025-01-21 16:14:20,599 - INFO - State name validated successfully
-2025-01-21 16:14:20,599 - INFO - Starting Company validation.
-2025-01-21 16:14:21,832 - INFO - Company name validated successfully
-2025-01-21 16:14:21,832 - INFO - Starting model name validation.
-2025-01-21 16:14:24,737 - INFO - Model name validation successfull
-2025-01-21 16:14:24,737 - INFO - Starting Colour validation.
-2025-01-21 16:14:26,294 - INFO - Color validation successfull
-2025-01-21 16:14:26,294 - INFO - Starting Price validation.
-2025-01-21 16:14:28,338 - INFO - Price validated successfully
-2025-01-21 16:14:28,338 - INFO - Starting fuel type validation.
-2025-01-21 16:14:30,621 - INFO - Registration done Successfully.
+2025-01-22 12:12:59,304 - INFO - Abhi123 validation successful.
+2025-01-22 12:12:59,304 - INFO - Starting Abhi123456 validation.
+2025-01-22 12:12:59,311 - INFO - Abhi123456 validation successful.
+2025-01-22 12:12:59,311 - INFO - Starting Abhi validation.
+2025-01-22 12:12:59,311 - INFO - Abhi validation successful.
+2025-01-22 12:12:59,311 - INFO - Starting 1234567890 validation.
+2025-01-22 12:12:59,311 - INFO - 1234567890 validation successful.
+2025-01-22 12:12:59,311 - INFO - Starting Abhi@gmail.com validation.
+2025-01-22 12:12:59,311 - INFO - Abhi@gmail.com validation successful.
+2025-01-22 12:12:59,311 - INFO - Starting MH1212345678900 validation.
+2025-01-22 12:12:59,311 - INFO - MH1212345678900 validation successful.
+2025-01-22 12:12:59,311 - INFO - Starting 123456789009 validation.
+2025-01-22 12:12:59,320 - INFO - 123456789009 validation successful.
+2025-01-22 12:12:59,320 - INFO - Starting Pune validation.
+2025-01-22 12:12:59,320 - INFO - Pune validation successful.
+2025-01-22 12:12:59,320 - INFO - Starting 123456 validation.
+2025-01-22 12:12:59,320 - INFO - 123456 validation successful.
+2025-01-22 12:12:59,320 - INFO - Starting Maha validation.
+2025-01-22 12:12:59,320 - INFO - Maha validation successful.
+2025-01-22 12:12:59,320 - INFO - Starting BMW validation.
+2025-01-22 12:12:59,320 - INFO - BMW validation successful.
+2025-01-22 12:12:59,320 - INFO - Starting M5 validation.
+2025-01-22 12:12:59,320 - INFO - M5 validation successful.
+2025-01-22 12:12:59,320 - INFO - Starting Green validation.
+2025-01-22 12:12:59,320 - INFO - Green validation successful.
+2025-01-22 12:12:59,320 - INFO - Starting 10cr validation.
+2025-01-22 12:12:59,320 - INFO - 10cr validation successful.
+2025-01-22 12:12:59,324 - INFO - Starting Diesel validation.
+2025-01-22 12:12:59,324 - INFO - Diesel validation successful.
